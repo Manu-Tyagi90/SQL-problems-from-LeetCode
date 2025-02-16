@@ -4,7 +4,7 @@ A list of SQL problems from LeetCode following a structured approach
 ### **Basic SQL Queries**  
 1. **Recyclable and Low Fat Products** - [LeetCode 1757](https://leetcode.com/problems/recyclable-and-low-fat-products/)  
 2. **Big Countries** - [LeetCode 595](https://leetcode.com/problems/big-countries/)  
-3. **Weather Type Classification** - [LeetCode 1527](https://leetcode.com/problems/patients-with-a-condition/)  
+3. **Patients With a Condition** - [LeetCode 1527](https://leetcode.com/problems/patients-with-a-condition/)  
 4. **Classes More Than 5 Students** - [LeetCode 596](https://leetcode.com/problems/classes-more-than-5-students/)  
 5. **Find Customers Who Never Order** - [LeetCode 183](https://leetcode.com/problems/customers-who-never-order/)  
 
